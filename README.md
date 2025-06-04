@@ -21,17 +21,6 @@ Cybersecurity · Post-Quantum Crypto · Network Security · Internet of Things �
 
 ---
 
-## 👁️ Dynamic Visitor Counter
-
-![Visitor Count](https://profile-counter.glitch.me/HoangBaoPhuoc/count.svg)
-
----
-
-## 🔥 GitHub Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoangBaoPhuoc&theme=dark&hide_border=true)
-
----
 
 ## 🚀 Featured Projects
 
@@ -46,9 +35,7 @@ Cybersecurity · Post-Quantum Crypto · Network Security · Internet of Things �
 
 ---
 
-## 🧠 Tech Stack with Progress
-
-### 🧠 Languages & Frameworks
+## 🧠 Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
@@ -84,6 +71,20 @@ Cybersecurity · Post-Quantum Crypto · Network Security · Internet of Things �
 ---
 
 
+## 🔥 GitHub Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoangBaoPhuoc&theme=dark&hide_border=true)
+
+---
+
+
+## 👁️ Dynamic Visitor Counter
+
+![Visitor Count](https://profile-counter.glitch.me/HoangBaoPhuoc/count.svg)
+
+---
+
+
 ## 📬 Connect with Me
 
 <a href="https://www.linkedin.com/in/phuoc-hoang-bao-9b4b63368/" title="Connect with me on LinkedIn" target="_blank">
@@ -95,12 +96,6 @@ Cybersecurity · Post-Quantum Crypto · Network Security · Internet of Things �
 <a href="https://x.com/bao_phuoc191" title="Follow me on Twitter" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-
----
-
-## 📈 Contribution Heatmap
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoangBaoPhuoc&theme=github-light&hide_border=true&area=true&color=1E3A8A&line=1E3A8A&point=1E3A8A)
 
 ---
 
