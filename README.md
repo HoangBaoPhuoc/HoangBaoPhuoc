@@ -1,27 +1,55 @@
-# 👋 Xin chào! Tôi là Hoàng Bảo Phước
+# 👋 Hi, I'm [Your Name Here]
 
-🎓 Sinh viên năm hai chuyên ngành An toàn thông tin  
-💻 Yêu thích lập trình Python, C#, và bảo mật mạng  
-🔬 Hiện đang nghiên cứu về xác thực ẩn danh hậu lượng tử (LBAA) cho IoT  
-🌱 Đam mê học hỏi về AI, bảo mật, mật mã học và phát triển phần mềm
+> *"Your personal motto or quote here."*
 
-## 📌 Kỹ năng
+🎓 Student at [University of Information Technology - VNUHCM](https://www.uit.edu.vn)  
+💻 Major: Information Security  
+📡 Department: Computer Networks and Communications  
+🔒 Passion: [Bạn có thể ghi đam mê như "Exploring post-quantum cryptography and secure protocols for IoT"]
 
-- 💡 Ngôn ngữ: Python, C#, JavaScript, C/C++
-- 🔐 Bảo mật: Mã hóa, Honeypot, IDS, Post-quantum cryptography
-- ☁️ Công nghệ: ESP32 (MicroPython), MQTT, Docker, Git, Linux
-
-## 📂 Dự án tiêu biểu
-
-- 🔒 **LBAA for IoT**: Giao thức xác thực ẩn danh nhẹ cho thiết bị IoT sử dụng mật mã lattice
-- 🕵️‍♂️ **Adaptive Honeypot using LLM**: Honeypot tự thích ứng sử dụng trí tuệ nhân tạo
-- 📡 **Mạng và Bảo mật**: Các công cụ pentest và phân tích lưu lượng mạng viết bằng Python
-
-## 📫 Liên hệ
-
-- Email: 23521231@gm.uit.edu.vn
-- LinkedIn: [linkedin.com/in/nguyenvana]([https://linkedin.com/in/nguyenvana](https://www.linkedin.com/in/phuoc-hoang-bao-9b4b63368/))
+💬 Ask me about: Cybersecurity, Post-Quantum Crypto, Network Security, Python
 
 ---
 
-⭐ Cảm ơn bạn đã ghé qua profile của tôi!
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-000000?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats & Most Used Languages
+
+<table>
+  <tr>
+    <td>
+      <img src="https://gh-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&icon_color=1E3A8A&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Contributions
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=github-light&hide_border=true&area=true&color=1E3A8A&line=1E3A8A&point=1E3A8A" alt="Contributions Graph" />
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+
+---
+
+⭐ *Thanks for visiting my profile!*
