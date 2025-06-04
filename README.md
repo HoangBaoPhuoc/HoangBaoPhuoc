@@ -24,15 +24,10 @@ Cybersecurity · Post-Quantum Crypto · Network Security · Internet of Things �
 
 ## 🚀 Featured Projects
 
-- [Lattice-based IoT Authenticator](https://github.com/HoangBaoPhuoc/LatticeAuth)  
-  Lightweight lattice-based authentication scheme for IoT devices.
-
-- [Secure MQTT Library](https://github.com/HoangBaoPhuoc/SecureMQTT)  
-  Implementation of secure MQTT protocols for constrained devices.
-
-- [Post-Quantum Crypto Toolkit](https://github.com/HoangBaoPhuoc/PQCrypto)  
-  Tools and examples for lattice-based post-quantum cryptography.
-
+- [Youth Union Introduction Website – Faculty of Computer Networks and Communications]([https://github.com/HoangBaoPhuoc/LatticeAuth](https://nt208p24.vercel.app/))  
+  The website helps students stay updated with news, participate in events, and book rooms for meetings.
+...
+  
 ---
 
 ## 🧠 Languages & Frameworks
@@ -54,10 +49,10 @@ Cybersecurity · Post-Quantum Crypto · Network Security · Internet of Things �
 <table>
   <tr>
     <td>
-      <img src="https://gh-readme-stats.vercel.app/api?username=HoangBaoPhuoc&show_icons=true&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&icon_color=1E3A8A&hide_border=true" alt="GitHub Stats" />
+      <img src="https://gh-readme-stats.vercel.app/api?username=dkangtext&show_icons=true&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&icon_color=1E3A8A&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=HoangBaoPhuoc&layout=compact&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&hide_border=true" alt="Top Languages" />
+      <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=dkangtext&layout=compact&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
