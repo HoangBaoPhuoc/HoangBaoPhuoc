@@ -73,13 +73,6 @@ Cybersecurity · Post-Quantum Crypto · Network Security · Internet of Things �
 ---
 
 
-## 👁️ Dynamic Visitor Counter
-
-![Visitor Count](https://profile-counter.glitch.me/HoangBaoPhuoc/count.svg)
-
----
-
-
 ## 📬 Connect with Me
 
 <a href="https://www.linkedin.com/in/phuoc-hoang-bao-9b4b63368/" title="Connect with me on LinkedIn" target="_blank">
