@@ -4,15 +4,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2496ED&center=false&vCenter=false&width=435&lines=Cloud+%26+DevSecOps;Building+Zero+Trust+Architecture;Automating+Hybrid+Clouds;Red+Teaming+%26+Defense-in-Depth)](https://git.io/typing-svg)
 
-🎓 *Student at* [University of Information Technology - VNUHCM](https://www.uit.edu.vn)
-💻 *Major:* Information Security
+🎓 *Student at* [University of Information Technology - VNUHCM](https://www.uit.edu.vn).
+💻 *Major:* Information Security.
 🌐 *Focus:* Cloud Native Security, Infrastructure as Code (IaC), and DevSecOps Pipeline.
 
 ---
 
 ## 💡 About Me
 
-I am an Information Security student with a strong passion for **bridging the gap between DevOps agility and Security compliance**. Unlike traditional security students, I code my infrastructure and automate my defenses.
+I am an Information Security student with a strong passion for **bridging the gap between DevOps agility and Security compliance**.
 
 - 🔭 I’m currently building **Zero Trust Architectures** on Hybrid Cloud (OpenStack + AWS).
 - 🌱 I’m deep-diving into **SPIRE**, **Istio Service Mesh**, and **OPA (Policy-as-Code)**.
