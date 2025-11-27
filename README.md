@@ -2,7 +2,7 @@
 
 > *"Infrastructure without security is just a playground for hackers. I build walls, but I code bridges too."*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2496ED&center=false&vCenter=false&width=435&lines=Cloud+%26+DevSecOps+Intern;Building+Zero+Trust+Architecture;Automating+Hybrid+Clouds;Red+Teaming+%26+Defense-in-Depth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2496ED&center=false&vCenter=false&width=435&lines=Cloud+%26+DevSecOps;Building+Zero+Trust+Architecture;Automating+Hybrid+Clouds;Red+Teaming+%26+Defense-in-Depth)](https://git.io/typing-svg)
 
 🎓 *Student at* [University of Information Technology - VNUHCM](https://www.uit.edu.vn)
 💻 *Major:* Information Security
