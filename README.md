@@ -1,81 +1,53 @@
 # 👋 Hi, I'm Hoang Bao Phuoc
 
-> *"Infrastructure without security is just a playground for hackers. I build walls, but I code bridges too."*
+### 🛡️ Cloud & DevOps Intern | Information Security Student
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=3F8CFF&background=00000000&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Cloud+%26+DevSecOps;Building+Zero+Trust+Architecture;Automating+Hybrid+Clouds;Red+Teaming+%26+Defense-in-Depth" alt="Typing SVG" />
-</div>
-
-<div align="center">
-🎓 <b>Student at</b> <a href="https://www.uit.edu.vn">UIT - VNUHCM</a> | 💻 <b>Major:</b> Information Security<br>
-🌐 <b>Focus:</b> Cloud Native Security, IaC, DevSecOps Pipeline
-</div>
+> *"Infrastructure without security is just a playground for hackers."*
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F46800&center=true&vCenter=true&width=435&lines=💡+About+Me" alt="About Me" />
-</div>
+## ⚡ Tech Stack & Arsenal
 
-I am an Information Security student with a strong passion for **bridging the gap between DevOps agility and Security compliance**.
-
-- 🔭 I’m currently building **Zero Trust Architectures** on Hybrid Cloud (OpenStack + AWS).
-- 🌱 I’m deep-diving into **SPIRE**, **Istio Service Mesh**, and **OPA (Policy-as-Code)**.
-- 🛡️ I practice **Purple Teaming**: I build hardened systems (Blue Team) and simulate attacks to test them (Red Team).
-- ⚡ **Core Philosophy:** "Security should be built-in, not bolted-on."
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F46800&center=true&vCenter=true&width=435&lines=🛠️+Tech+Stack+%26+Arsenal" alt="Tech Stack" />
-</div>
-
-<div align="center">
-
-| Domain | Technologies |
-| :--- | :--- |
-| **☁️ Cloud & Infra** | ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| **🤖 IaC** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **🛡️ Sec & ID** | ![SPIRE](https://img.shields.io/badge/SPIFFE%2FSPIRE-00C7B7?style=flat-square) ![OPA](https://img.shields.io/badge/OPA-Rego-blue?style=flat-square) ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-blueviolet?style=flat-square) |
-| **📊 Monitor** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) |
-| **💻 Code** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F46800&center=true&vCenter=true&width=435&lines=📊+GitHub+Analytics" alt="Analytics" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/HoangBaoPhuoc/HoangBaoPhuoc/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
-
+**☁️ Cloud & Infrastructure**
 <br>
+![OpenStack](https://img.shields.io/badge/openstack-%23ed1944.svg?style=for-the-badge&logo=openstack&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<table style="width:100%">
+**🤖 IaC & Automation**
+<br>
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**🛡️ Security & Identity**
+<br>
+![SPIRE](https://img.shields.io/badge/SPIFFE%2FSPIRE-E36618?style=for-the-badge) ![OPA](https://img.shields.io/badge/OPA-D92525?style=for-the-badge) ![Keycloak](https://img.shields.io/badge/Keycloak-ADD8E6?style=for-the-badge&logo=keycloak&logoColor=black) ![Wazuh](https://img.shields.io/badge/Wazuh-7B42BC?style=for-the-badge&logo=wazuh&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+**💻 Languages**
+<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<table align="left">
   <tr>
-    <td width="50%" align="center">
-       <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=HoangBaoPhuoc&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+    <td align="left" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=HoangBaoPhuoc&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&v=3" alt="GitHub Stats" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://gh-readme-stats.vercel.app/api?username=HoangBaoPhuoc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <td align="left" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangBaoPhuoc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
 </table>
+<br clear="all">
+
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F46800&center=true&vCenter=true&width=435&lines=📬+Let's+Connect" alt="Connect" />
+## 📬 Contact Me
 
-  <br>
-
-  <a href="https://www.linkedin.com/in/phuoc-hoang-bao-9b4b63368/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:23521231@gm.uit.edu.vn">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/phuoc-hoang-bao-9b4b63368/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:phuocab191@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
