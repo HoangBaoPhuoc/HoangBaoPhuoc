@@ -10,7 +10,8 @@
 
 ---
 
-## 💡 About Me
+<details>
+<summary><h2>💡 About Me (Click to expand)</h2></summary>
 
 I am an Information Security student with a strong passion for **bridging the gap between DevOps agility and Security compliance**.
 
@@ -19,9 +20,12 @@ I am an Information Security student with a strong passion for **bridging the ga
 - 🛡️ I practice **Purple Teaming**: I build hardened systems (Blue Team) and simulate attacks to test them (Red Team).
 - ⚡ **Core Philosophy:** "Security should be built-in, not bolted-on."
 
+</details>
+
 ---
 
-## 🛠️ Tech Stack & Arsenal
+<details>
+<summary><h2>🛠️ Tech Stack & Arsenal</h2></summary>
 
 Here are the tools I use to build, break, and secure systems:
 
@@ -33,9 +37,12 @@ Here are the tools I use to build, break, and secure systems:
 | **📊 Observability** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) |
 | **💻 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 
+</details>
+
 ---
 
-## 📊 GitHub Analytics
+<details>
+<summary><h2>📊 GitHub Analytics</h2></summary>
 
 <table style="width:100%">
   <tr>
@@ -52,6 +59,8 @@ Here are the tools I use to build, break, and secure systems:
     </td>
   </tr>
 </table>
+
+</details>
 
 ---
 
