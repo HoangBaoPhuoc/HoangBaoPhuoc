@@ -2,7 +2,7 @@
 
 > *"Infrastructure without security is just a playground for hackers. I build walls, but I code bridges too."*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cloud+%26+DevSecOps;Building+Zero+Trust+Architecture;Automating+Hybrid+Clouds;Red+Teaming+%26+Defense-in-Depth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=3F8CFF&background=00000000&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Cloud+%26+DevSecOps;Building+Zero+Trust+Architecture;Automating+Hybrid+Clouds;Red+Teaming+%26+Defense-in-Depth)](https://git.io/typing-svg)
 
 🎓 *Student at* [University of Information Technology - VNUHCM](https://www.uit.edu.vn).
 💻 *Major:* Information Security.
@@ -18,28 +18,6 @@ I am an Information Security student with a strong passion for **bridging the ga
 - 🌱 I’m deep-diving into **SPIRE**, **Istio Service Mesh**, and **OPA (Policy-as-Code)**.
 - 🛡️ I practice **Purple Teaming**: I build hardened systems (Blue Team) and simulate attacks to test them (Red Team).
 - ⚡ **Core Philosophy:** "Security should be built-in, not bolted-on."
-
----
-
-## 🚀 Featured Projects
-
-### 🌩️ [VPBank Hybrid Cloud Platform (IaC & AI-Scaling)](Link_Repo_Của_Bạn)
-*Infrastructure as Code | Automation | Python*
-An intelligent platform automating the deployment of a Hybrid Cloud environment (OpenStack ↔ AWS) via SD-WAN.
-- **Tech:** Terraform, Ansible, AWS Transit Gateway, Google Gemini AI, Grafana/Mimir.
-- **Highlight:** Reduced deployment time to **<15 mins** and implemented **AI-driven auto-scaling** based on traffic prediction.
-
-### 🔐 [Zero Trust Architecture in Hybrid Cloud](Link_Repo_Của_Bạn)
-*Cloud Security | DevSecOps | Kubernetes*
-Moved beyond perimeter security to an identity-centric model spanning Private and Public clouds.
-- **Tech:** SPIRE (Workload Identity), Istio (mTLS), OPA/Rego (AuthZ Policy), Keycloak.
-- **Highlight:** Achieved granular **micro-segmentation** and automated policy enforcement for microservices.
-
-### ⚔️ [Defense-in-Depth & Adversary Simulation](Link_Repo_Của_Bạn)
-*Network Security | Red Teaming | Blue Teaming*
-Designed a 3-layer defense system and executed a full Cyber Kill Chain attack simulation to validate it.
-- **Tech:** pfSense, Suricata IPS, ModSecurity WAF, Wazuh SIEM, Metasploit.
-- **Highlight:** Successfully simulated **Volumetric DoS** and **WAF Evasion** techniques to harden detection rules.
 
 ---
 
