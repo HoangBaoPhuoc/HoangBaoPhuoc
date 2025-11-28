@@ -27,18 +27,8 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<table align="left">
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=HoangBaoPhuoc&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&v=3" alt="GitHub Stats" />
-    </td>
-    <td align="left" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangBaoPhuoc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
-<br clear="all">
+![](https://github-readme-stats.vercel.app/api?username=HoangBaoPhuoc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangBaoPhuoc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
