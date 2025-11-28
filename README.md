@@ -2,7 +2,7 @@
 
 > *"Infrastructure without security is just a playground for hackers. I build walls, but I code bridges too."*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2496ED&center=false&vCenter=false&width=435&lines=Cloud+%26+DevSecOps;Building+Zero+Trust+Architecture;Automating+Hybrid+Clouds;Red+Teaming+%26+Defense-in-Depth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cloud+%26+DevSecOps;Building+Zero+Trust+Architecture;Automating+Hybrid+Clouds;Red+Teaming+%26+Defense-in-Depth)](https://git.io/typing-svg)
 
 🎓 *Student at* [University of Information Technology - VNUHCM](https://www.uit.edu.vn).
 💻 *Major:* Information Security.
@@ -59,18 +59,21 @@ Here are the tools I use to build, break, and secure systems:
 
 ## 📊 GitHub Analytics
 
-<table>
+<table style="width:100%">
   <tr>
-    <td>
-      <img src="https://gh-readme-stats.vercel.app/api?username=HoangBaoPhuoc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangBaoPhuoc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
-    <td>
-      <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=HoangBaoPhuoc&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+       <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=HoangBaoPhuoc&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://gh-readme-stats.vercel.app/api?username=HoangBaoPhuoc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HoangBaoPhuoc&theme=tokyonight&hide_border=true&area=true" alt="Contributions Graph" />
 
 ---
 
@@ -80,9 +83,9 @@ I am open to **Cloud/DevOps Internship** opportunities. If you need someone who 
 
 <div align="left">
 <a href="https://www.linkedin.com/in/phuoc-hoang-bao-9b4b63368/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:23521231@gm.uit.edu.vn">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </div>
