@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hoang Bao Phuoc
+# Hi, I'm Hoang Bao Phuoc
 
 ### 🛡️ Cloud & DevOps Intern | Information Security Student
 
@@ -27,9 +27,8 @@
 ---
 
 ## 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=HoangBaoPhuoc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangBaoPhuoc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=**phuochb**&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=**phuochb**&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
